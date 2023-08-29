@@ -1,7 +1,7 @@
 # semaphoreQueue
-Producer-Consumer problem in C. Simple semaphor queue implementation. <br />
+Producer-Consumer problem in C. Simple semaphore queue implementation. <br />
 Compile:
->gcc -o semaphorQueue semaphoreQueue.c
+>gcc -o semaphoreQueue semaphoreQueue.c
 >
 Run:
 >./semaphoreQueue config.txt
