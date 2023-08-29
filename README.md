@@ -1,5 +1,5 @@
 # semaphoreQueue
-Producer-Consumer problem in C
+Producer-Consumer problem in C <br />
 Compile:
 >gcc -o semaphorQueue semaphoreQueue.c
 >
